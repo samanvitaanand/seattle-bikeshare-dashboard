@@ -28,7 +28,7 @@ The Seattle Bike Share Explorer is a five-page interactive dashboard covering st
 
 ---
 
-## Finding 1 — The Network Is Geographically Concentrated Downtown
+## Finding 1 - The Network Is Geographically Concentrated Downtown
 
 ![Station Map](screenshots/station_map.png)
 *All 58 Pronto stations mapped across Seattle. The network is tightly clustered in downtown, Capitol Hill, and the waterfront corridor.*
@@ -40,7 +40,7 @@ Coverage gaps are both a limitation and an opportunity. Expanding into underserv
 
 ---
 
-## Finding 2 — A Small Number of Stations Drive the Majority of Trips
+## Finding 2 - A Small Number of Stations Drive the Majority of Trips
 
 ![Top 10 Busiest Stations](screenshots/busiest_stations.png)
 *Pier 69 / Alaskan Way & Clay St leads all stations with over 13,000 departures, nearly double the volume of stations ranked 8th–10th.*
@@ -52,7 +52,7 @@ Dock shortages or maintenance downtime at these stations has an outsized impact 
 
 ---
 
-## Finding 3 — Members Dominate Ridership; Short-Term Riders Are an Untapped Pipeline
+## Finding 3 - Members Dominate Ridership; Short-Term Riders Are an Untapped Pipeline
 
 ![Member vs Casual Riders](screenshots/user_type.png)
 *63.3% of trips were taken by annual members. Short-term pass holders account for 36.7%.*
@@ -64,7 +64,7 @@ The member base is the engine of the network. However, short-term riders represe
 
 ---
 
-## Finding 4 — 77% of Riders Are Male; Female Ridership Is Significantly Underrepresented
+## Finding 4 - 77% of Riders Are Male; Female Ridership Is Significantly Underrepresented
 
 ![Trips by Gender](screenshots/gender.png)
 *77.4% of trips are attributed to male riders. Female riders account for 20.7%, with 1.89% identifying as other.*
@@ -76,7 +76,7 @@ Female ridership is an underserved segment with real growth potential. Research 
 
 ---
 
-## Finding 5 — The Core Rider Is Between 25 and 35 Years Old
+## Finding 5 - The Core Rider Is Between 25 and 35 Years Old
 
 ![Age Distribution of Riders](screenshots/age_distribution.png)
 *Ridership peaks sharply at age 28, with strong representation through the mid-30s. Volume drops steadily after 40.*
@@ -88,7 +88,7 @@ The product resonates most strongly with younger working professionals, consiste
 
 ---
 
-## Finding 6 — Temperature Has a Direct, Measurable Impact on Daily Ridership
+## Finding 6 - Temperature Has a Direct, Measurable Impact on Daily Ridership
 
 ![Temperature vs Daily Ridership](screenshots/temp_ridership.png)
 *Each dot represents one day. The trendline confirms a consistent positive relationship between mean temperature and trip volume across the full dataset.*
@@ -100,7 +100,7 @@ Demand is partially predictable through weather forecasting. Operations teams ca
 
 ---
 
-## Finding 7 — Rain, Snow, and Thunderstorms Measurably Suppress Ridership
+## Finding 7 - Rain, Snow, and Thunderstorms Measurably Suppress Ridership
 
 ![Ridership by Weather Event](screenshots/weather_ridership.png)
 *Clear days ("None") produce the highest median trip counts and the widest upside range. Rain-Snow and Rain-Thunderstorm combinations show the lowest floors.*
@@ -112,7 +112,7 @@ Seattle's climate creates structural seasonality that cannot be fully overcome, 
 
 ---
 
-## Finding 8 — Ridership Peaked in Spring 2015 and Has Not Fully Recovered
+## Finding 8 - Ridership Peaked in Spring 2015 and Has Not Fully Recovered
 
 ![Daily Ridership Over Time](screenshots/ridership_over_time.png)
 *The red 7-day rolling average shows two clear seasonal cycles. Spring 2015 represents the network's peak. The 2015–2016 winter trough was severe, with some days falling below 100 trips. Recovery in 2016 was partial.*
