@@ -1,8 +1,8 @@
-# Seattle Bike Share — Analysis Findings & Recommendations
+# Seattle Bike Share - Analysis Findings & Recommendations
 
 **Prepared by:** Data Analytics Team, VeloCity Urban Mobility Co.
 **Dashboard:** Seattle Bike Share Explorer
-**Data Period:** 2014 – 2016 (Pronto Cycle Share Network)
+**Data Period:** 2014 - 2016 (Pronto Cycle Share Network)
 **Total Trips Analyzed:** 286,857 across 58 stations
 
 ---
