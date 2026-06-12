@@ -37,7 +37,7 @@ The Seattle Bike Share Explorer is a five-page interactive dashboard covering st
 The station map reveals that the Pronto network was intentionally dense in central Seattle, particularly along the waterfront, through downtown, and into Capitol Hill. This concentration made the network highly efficient for short urban trips but left large residential and commercial areas of the city without coverage.
 
 **What this means for the business:**
-Coverage gaps are both a limitation and an opportunity. Expanding into underserved neighborhoods, particularly South Lake Union, the University District, and South Seattle — would increase total addressable ridership and reduce the network's dependence on a small geographic footprint.
+Coverage gaps are both a limitation and an opportunity. Expanding into underserved neighborhoods, particularly South Lake Union, the University District, and South Seattle would increase total addressable ridership and reduce the network's dependence on a small geographic footprint.
 
 ---
 
