@@ -7,7 +7,8 @@
 
 ---
 
-> **Disclaimer:** VeloCity Urban Mobility Co. is a fictional company created for the purposes of this analysis. All data referenced is from the publicly available Kaggle Pronto Cycle Share dataset.
+This analysis was conducted using the publicly available Pronto Cycle Share dataset. Pronto was Seattle's first docked bike share system, operating from 2014 to 2017.
+Link: https://www.kaggle.com/datasets/city-of-seattle/seattle-pronto-cycle-share-data
 
 ---
 
